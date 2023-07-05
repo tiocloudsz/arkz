@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.apikey = '396295820e22decf3557317d' //https://api.lolhuman.xyz
-global.rosekey = '' //https://api.itsrose.life
+global.rosekey = 'cba86fac49e37d63f9bd4561' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
 global.namabot = 'TIO_CLOUDSZ'
 global.namaowner = 'TIO'
