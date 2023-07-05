@@ -1,20 +1,20 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.apikey = 'SGWN' //https://api.lolhuman.xyz
-global.rosekey = '-' //https://api.itsrose.life
+global.apikey = '396295820e22decf3557317d' //https://api.lolhuman.xyz
+global.rosekey = '' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Arifzyn-MD V2.1'
-global.namaowner = 'ArifzynXD お-ぎ'
+global.namabot = 'TIO_CLOUDSZ'
+global.namaowner = 'TIO'
 
 //—————「 Setting Owner 」—————//
-global.owner = '62895347198105'
-global.ownernomer = ["62895347198105"]
-global.premium = ['62895347198105']
+global.owner = '6285785056491'
+global.ownernomer = ["6285785056491"]
+global.premium = ['6285785056491']
 
 //—————「 Set Wm 」—————//
-global.packname = ''
-global.author = 'Arifzxa お-ぎ'
+global.packname = 'TIO_CLOUDSZ'
+global.author = 'TIO'
 global.prefa = ['', '.']
 global.sp = '•'
 
